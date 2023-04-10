@@ -17,7 +17,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.ANTI_BADWORD = 'true' // true of false
 global.AUTO_REACT = 'false' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
-global.INBOX_BLOCK = 'off' //inbox block
+global.INBOX_BLOCK = 'on' //inbox block
 global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
 global.owner = ['0741931096'] //ur owner number
@@ -27,7 +27,7 @@ global.socialm = "GitHub: Dark" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy
-global.session = "RFgyZDR0WFE=" //session Id
+global.session = "NzJXaDFpQ3Y=" //session Id
 global.ownernomer = "0710776092" //ur number
 global.lang = "SI" //Select Language "" to English "SI" to sinhala 
 global.premium = ['94786802371'] //ur premium number
