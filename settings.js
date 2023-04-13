@@ -26,10 +26,11 @@ global.ytname = "YT: Dark" //ur yt chanel name
 global.socialm = "GitHub: Dark" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
-//bot bomdy 
-global.session = "SDA2YzlmOVE=" //session Id
-global.ownernomer = "94765837695" //ur number
-global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
+//bot bomdy අ
+global.session = "bjc5R25mV1M=" //session Id
+global.ownernomer = "9474" //ur number
+global.lang = "SI" //Select Language "EN"
+to English "SI" to sinhala 
 global.premium = ['94765837695'] //ur premium number
 global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
